@@ -1,0 +1,148 @@
+{
+    "produtos": [
+        {
+            "id": "1",
+            "name": "Réplica Varinha",
+            "price": 66.90,
+            "image": "https://images-americanas.b2w.io/produtos/3753563465/imagens/varinha-professor-dumbledore-original-universal-studios-harry-potter/3753563465_1_xlarge.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Caldeirão de Bruxa",
+            "price": 84.90,
+            "image": "https://cdn.awsli.com.br/600x450/1896/1896128/produto/235574966/cala-s9tj2e6nul.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Wiccapédia - O Guia da Bruxaria Moderna",
+            "price": 59.90,
+            "image": "https://cdn.awsli.com.br/600x1000/2746/2746657/produto/275916137/wiccap-dia-ueigygb20z.jpeg"
+        },
+        {
+            "id": "4",
+            "name": "Vidro de Poção da Morte",
+            "price": 39.90,
+            "image": "https://m.media-amazon.com/images/I/61pD0YLtwnS._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Livro de receitas Harry Potter",
+            "price": 87.50,
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRx7ib87FT3DDGkpLlwFk-6qwPhjbwTjYlqjkQtZuizn6z0mPBJH-4dWUfnRad8QLLfSIxo1nML0upE1F4CdIQlBEIL3_B0YckZNDR51APxz6p421hK4H_H&usqp=CAE"
+        },
+        {
+            "id": "6",
+            "name": "Incensário Sufi Bruxa",
+            "price": 28.90,
+            "image": "https://cdn.awsli.com.br/800x800/2746/2746657/produto/273219005/2-29dbq5z9pr.jpg"
+        },
+        {
+            "id": "7",
+            "name": "Buda da Felicidade",
+            "price": 45.00,
+            "image": "https://cdn.awsli.com.br/2500x2500/2746/2746657/produto/274215575/2-pkj3jiwldn.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Bruxas Literárias: Alquimia das Palavras",
+            "price": 69.90,
+            "image": "https://cdn.awsli.com.br/2500x2500/2063/2063534/produto/121311630/96-554362e023.jpg"
+        },
+        {
+            "id": "9",
+            "name": "Vestido Medieval Bruxa Clássico",
+            "price":239.00,
+            "image": "https://images.tcdn.com.br/img/img_prod/719458/275_0_20201214002142.jpg"
+        },
+        {
+            "id": "10",
+            "name": "Chapéu de Bruxa",
+            "price": 70.00,
+            "image": "https://m.media-amazon.com/images/I/31Lk9GtKOZL._AC_.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Altar de bruxaria completo",
+            "price": 179.80,
+            "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lztr1r4mugxt0e"
+        },
+        {
+            "id": "12",
+            "name": "Colar nó de bruxa",
+            "price": 39.90,
+            "image": "https://m.media-amazon.com/images/I/51Mx0RVZwGL._AC_SL1500_.jpg"
+        },
+        {
+            "id": "13",
+            "name": "Livro Mágico",
+            "price": 33.99,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71w0TqAVROL._AC_UL600_SR600,600_.jpg"
+        },
+        {
+            "id": "14",
+            "name": "Cristal Paz e Harmonia",
+            "price": 19.90,
+            "image": "https://http2.mlstatic.com/D_NQ_NP_678928-MLB72093325081_102023-O.webp"
+        },
+        {
+            "id": "15",
+            "name": "Cristal Amor",
+            "price": 19.90,
+            "image": "https://http2.mlstatic.com/D_NQ_NP_973043-MLB48409761622_122021-O.webp"
+        },
+        {
+            "id": "16",
+            "name": "Cristal Riqueza e Prosperidade",
+            "price": 19.90,
+            "image": "https://cdn.sistemawbuy.com.br/arquivos/6cda4ed6c3553307292dc3027692470a/produtos/63e0f8df31bfc/20230206095600-63e0f8e022d93.jpg"
+        },
+        {
+            "id": "17",
+            "name": "Anel de Turmalina Negra para Proteção",
+            "price": 39.90,
+            "image": "https://acdn.mitiendanube.com/stores/002/130/664/products/81-2f6ff94dacb9adf31716838391485706-1024-1024.jpg"
+        },
+        {
+            "id": "18",
+            "name": "Kit Leitura Tarô",
+            "price": 62.00,
+            "image": "https://a-static.mlcdn.com.br/450x450/kit-leitura-taro-toalha-brilho-azul-dourado-e-o-taro-negro-flash/flashmistic/kittaronegroaz/decd375e2fc172066e7fd9326932e951.jpeg"
+        },
+        {
+            "id": "19",
+            "name": "Livro Tarô Mágico dos Gatos",
+            "price": 127.00,
+            "image": "https://m.media-amazon.com/images/I/51HQJJGMIfL._SY445_SX342_.jpg"
+        },
+        {
+            "id": "20",
+            "name": "Incenso Natural de Olíbano",
+            "price": 39.90,
+            "image": "https://cdn.awsli.com.br/2500x2500/47/47371/produto/79820998/1bcc606378.jpg"
+        },
+        {
+            "id": "21",
+            "name": "Conjunto de pedras rúnicas com livro de runas",
+            "price": 100.0,
+            "image": "https://m.media-amazon.com/images/I/616RrpYfYoL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": "22",
+            "name": "Castiçais de cinco estrelas",
+            "price": 169.00,
+            "image": "https://m.media-amazon.com/images/I/817Bbqbis7L._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": "23",
+            "name": "Velas do Triunfo",
+            "price": 39.90,
+            "image": "https://images.squarespace-cdn.com/content/v1/6358019db6a44f0030b3a664/1687107876766-RCPGI04YL857QLASD0H0/Velas+bn3_sin+fondo.png"
+        },
+        {
+            "id": "24",
+            "name": "Chá de Bruxa",
+            "price": 7.90,
+            "image": "https://cdn.awsli.com.br/800x800/939/939830/produto/1198658873eaa91ac0b.jpg"
+        }
+    ]
+}
